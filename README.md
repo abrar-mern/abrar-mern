@@ -70,6 +70,13 @@ A multi-tenant project coordination platform focusing on dependency trees and re
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abrar-mern&layout=compact&theme=gotham" alt="Top Languages" width="48%" />
 </p>
 
+---
+
+---
+
+## 🖥️ Live System Architecture Build Logs
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-mern&theme=gotham" alt="Streak" width="48%" />
 </p>
