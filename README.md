@@ -62,13 +62,17 @@ A multi-tenant project coordination platform focusing on dependency trees and re
 
 ---
 
+
 ## 📊 Core GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar-mern&show_icons=true&theme=gotham&rank_icon=github" alt="Abrar's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-mern&layout=compact&theme=gotham" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abrar-mern&show_icons=true&theme=gotham&rank_icon=github" alt="Abrar's Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abrar-mern&layout=compact&theme=gotham" alt="Top Languages" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-mern&theme=gotham" alt="Streak" width="97%" />
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-mern&theme=gotham" alt="Streak" width="97%" />
 </p>
