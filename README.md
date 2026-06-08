@@ -72,15 +72,17 @@ A multi-tenant project coordination platform focusing on dependency trees and re
 
 ---
 
----
 
-## 🖥️ Live System Architecture Build Logs
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-mern&theme=gotham" alt="Streak" width="48%" />
 </p>
 
+---
+
+---
+
+## 🖥️ Live System Architecture Build Logs
 ---
 
 📫 **Let's Connect:** Drop me an email at `abrarbabarkhan@gmail.com` for technical leadership, enterprise consulting, or full-stack architectural roles.
