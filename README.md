@@ -81,8 +81,5 @@ A multi-tenant project coordination platform focusing on dependency trees and re
 ---
 
 ---
-
 ## 🖥️ Live System Architecture Build Logs
----
-
-📫 **Let's Connect:** Drop me an email at `abrarbabarkhan@gmail.com` for technical leadership, enterprise consulting, or full-stack architectural roles.
+📫 **Let's Connect:** Drop me an email at abrarbabarkhan@gmail.com for technical leadership, enterprise consulting, or full-stack architectural roles.
