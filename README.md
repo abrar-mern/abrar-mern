@@ -30,7 +30,7 @@ I am a **Senior Full Stack Engineer & Technical Lead** with 5+ years of continuo
 ## 🛠️ Tech Stack & Badges
 
 ### Core Development
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat-for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-for-the-badge&logo=express&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-for-the-badge&logo=javascript&logoColor=%23F7DF1E) ](https://developer.mozilla.org/en-US/docs/Web/JavaScript) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=flat-for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=flat-for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Databases & Infra
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-for-the-badge&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-for-the-badge&logo=githubactions&logoColor=white)
@@ -62,7 +62,6 @@ A multi-tenant project coordination platform focusing on dependency trees and re
 
 ---
 
-
 ## 📊 Core GitHub Metrics
 
 <p align="center">
@@ -70,16 +69,13 @@ A multi-tenant project coordination platform focusing on dependency trees and re
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abrar-mern&layout=compact&theme=gotham" alt="Top Languages" width="48%" />
 </p>
 
----
-
-
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-mern&theme=gotham" alt="Streak" width="48%" />
 </p>
 
 ---
 
----
 ## 🖥️ Live System Architecture Build Logs
+---
+
 📫 **Let's Connect:** Drop me an email at abrarbabarkhan@gmail.com for technical leadership, enterprise consulting, or full-stack architectural roles.
