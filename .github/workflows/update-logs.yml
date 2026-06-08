@@ -2,19 +2,23 @@ name: Update Profile Build Logs
 
 on:
   schedule:
-    # Fixed syntax: added exact spaces between cron parameters
     - cron: '0 */6 * * *'
-  workflow_dispatch: # Allows you to trigger it manually anytime with a button click
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    
+    # Grants complete workflow engine permissions to rewrite the repository contents
     permissions:
       contents: write
+      statuses: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          token: ${{ github.token }}
 
       - name: Set up Node.js
         uses: actions/setup-node@v4
