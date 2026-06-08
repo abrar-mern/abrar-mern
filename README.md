@@ -71,9 +71,8 @@ A multi-tenant project coordination platform focusing on dependency trees and re
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-mern&theme=gotham" alt="Streak" width="97%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abrar-mern&theme=gotham" alt="Streak" width="48%" />
 </p>
-
 
 ---
 
