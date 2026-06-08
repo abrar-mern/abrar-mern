@@ -1,0 +1,30 @@
+name: Update Profile Build Logs
+ 
+on:
+  schedule:
+    # Runs automatically every 6 hours
+    - cron: '0 */6*  * *'
+  workflow_dispatch: # Allows you to trigger it manually anytime with a button click
+ 
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+ 
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+ 
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-node-version: '20'
+ 
+      - name: Generate Dynamic Server Logs
+        run: node .github/scripts/generate-logs.js
+ 
+      - name: Commit and Push Updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "system-bot: synchronized live infrastructure build logs [skip ci]"
